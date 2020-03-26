@@ -15,3 +15,11 @@ print(dfsdfsdfsdfdsfds())
 
 
 asdfasdfasdfasdf.asdasffffadfdsgfdjga.sdasdasfafdsafds.print("hi")
+
+
+mt.__newindex = function()
+    print("i am not going to let you do anything")
+end
+
+hello = 1
+test = "hello"
