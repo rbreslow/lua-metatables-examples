@@ -1,0 +1,9 @@
+version: "3.7"
+services:
+  lua:
+    image: lua-metatables-examples
+    build:
+      context: .
+    volumes:
+      - ./:/usr/local/src
+    working_dir: /usr/local/src
