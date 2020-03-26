@@ -1,14 +1,12 @@
 # lua-metatables-examples
 
-Greetings Archophiles 👋
-
-## Running an Example
+### Running an Example
 
 ```bash
 $ docker-compose run --rm lua \
     example1.lua
 ```
 
-## Resources
+### Resources
 
 http://lua-users.org/wiki/MetatableEvents
